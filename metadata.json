@@ -26,5 +26,5 @@
   "recipes": {
     "default": "Default recipe performing the locales setup"
   },
-  "version": "0.0.1"
+  "version": "0.0.2"
 }
